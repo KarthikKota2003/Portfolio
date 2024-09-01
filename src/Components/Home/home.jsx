@@ -5,9 +5,9 @@ import Scroll from './Scroll';
 import Me from "../../assets/avatar-2.svg";
 import Typewriter from '../Typewriter';
 const texts=[
-    "Front-End Developer",
+    "Web Developer",
     "Computer Science Undergraduate",
-    "ML Enthusiast"
+    "Data Analyst"
 ];
 
 const home = () => {
